@@ -1,5 +1,3 @@
-gitのテストテキストファイルです
-はい
-いいえ
-んんんんｎ
-はい
+test file
+git-it text file in tutorial
+hhhhhhhhhhhhhhhhhhhhhhhhhhh
